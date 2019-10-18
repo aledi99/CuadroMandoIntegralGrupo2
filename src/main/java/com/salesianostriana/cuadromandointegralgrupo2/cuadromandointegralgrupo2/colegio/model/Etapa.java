@@ -29,8 +29,8 @@ public class Etapa {
 	private Colegio colegio;
 	@OneToMany(mappedBy="etapa")
 	private List<Curso> curso;
-	@OneToMany(mappedBy="subEtapa")
-	private List<Etapa> etapa;
+	@OneToMany(mappedBy="etapa")
+	private List<Etapa> subEtapa;
 	@ManyToOne
-	private Etapa subEtapa;
+	private Etapa superEtapa;
 }
