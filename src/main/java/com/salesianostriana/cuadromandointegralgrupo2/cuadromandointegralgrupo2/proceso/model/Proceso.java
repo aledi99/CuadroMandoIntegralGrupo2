@@ -21,7 +21,7 @@ public class Proceso {
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private long id;
 	private String nombre;
-	private int tipo;
+	private String tipo;
 	private int peso;
 	
 	@OneToMany(mappedBy="proceso")

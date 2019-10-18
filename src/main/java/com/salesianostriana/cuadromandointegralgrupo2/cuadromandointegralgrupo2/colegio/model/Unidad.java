@@ -11,11 +11,12 @@ import javax.persistence.ManyToMany;
 import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 
-import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.proceso.model.Indicador;
+import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.proceso.model.IndicadorUnidad;
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.proceso.model.ValorIndicadorUnidad;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 
@@ -33,6 +34,4 @@ public class Unidad {
 	private Curso curso;
 	@OneToMany
 	private List<ValorIndicadorUnidad> valores;
-	@ManyToMany
-	private List<Indicador> indicadores;
 }

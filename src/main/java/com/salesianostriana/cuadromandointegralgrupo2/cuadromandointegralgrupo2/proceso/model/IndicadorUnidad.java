@@ -20,8 +20,9 @@ import lombok.ToString;
 @Entity
 @DiscriminatorValue("UNIDAD")
 public class IndicadorUnidad extends Indicador{
-	
-	@ManyToMany 
+	@ToString.Exclude
+	@EqualsAndHashCode.Exclude
+	@ManyToMany
 	private List<Unidad> unidades;
 	@OneToMany(mappedBy="indicador")
 	private List<ValorIndicador> valores;
