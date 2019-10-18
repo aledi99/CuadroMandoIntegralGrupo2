@@ -30,6 +30,5 @@ public class Colegio {
 	
 	@OneToMany(mappedBy="colegio")
 	private List<PuntoControl> puntoControl;
-	@OneToMany(mappedBy="indicador")
-	private List<ValorIndicadorCentro> valores;
+	
 }

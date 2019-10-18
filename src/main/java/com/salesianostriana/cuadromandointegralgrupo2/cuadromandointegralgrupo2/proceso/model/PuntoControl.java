@@ -28,11 +28,14 @@ public class PuntoControl {
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private long id;
+	
 	@DateTimeFormat(pattern = "yyyy-MM-dd")
 	private LocalDate fecha;
+	
 	@ToString.Exclude
 	@ManyToOne (fetch =FetchType.LAZY)
 	private Colegio colegio;
+	
 	@OneToMany(mappedBy="puntoControl")
 	private List<Psm> psm;
 }

@@ -24,13 +24,14 @@ public class Etapa {
 	private long id;
 	private String nombre;
 	private int peso;
+	
 	@ToString.Exclude
 	@ManyToOne (fetch =FetchType.LAZY)
 	private Colegio colegio;
+	
 	@OneToMany(mappedBy="etapa")
 	private List<Curso> curso;
-	@OneToMany(mappedBy="superEtapa")
-	private List<Etapa> subEtapa;
+	
 	@ManyToOne
 	private Etapa superEtapa;
 }

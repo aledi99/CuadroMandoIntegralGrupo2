@@ -24,9 +24,11 @@ public class Curso {
 	private long id;
 	private String nombre;
 	private int peso;
+	
 	@ToString.Exclude
 	@ManyToOne (fetch =FetchType.LAZY)
 	private Etapa etapa;
+	
 	@OneToMany(mappedBy="curso")
 	private List<Unidad> unidad;
 }

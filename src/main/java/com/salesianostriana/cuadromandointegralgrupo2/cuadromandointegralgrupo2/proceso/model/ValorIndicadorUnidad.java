@@ -1,6 +1,5 @@
 package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.proceso.model;
 
-import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.ManyToOne;
@@ -19,10 +18,7 @@ import lombok.ToString;
 @Entity
 
 public class ValorIndicadorUnidad extends ValorIndicador{
-	
-	@ToString.Exclude
-	@ManyToOne (fetch =FetchType.LAZY)
-	private Indicador indicador;
+
 	@ToString.Exclude
 	@ManyToOne (fetch =FetchType.LAZY)
 	private Unidad unidad;

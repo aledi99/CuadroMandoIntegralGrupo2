@@ -25,14 +25,15 @@ public class ValorIndicador {
 	private double valorReal;
 	private double valorConforme;
 	private boolean esNoAplica;//SI ES FINAL O EN TODAS LAS EVALUACIONES.
-	//@DateTimeFormat(pattern = "yyyy-MM-dd")
-	//private LocalDate fecha;
+	
 	@ToString.Exclude
 	@ManyToOne (fetch =FetchType.LAZY)
 	private PuntoControl puntoControl;
+	
 	@ToString.Exclude
 	@ManyToOne (fetch =FetchType.LAZY)
 	private Indicador indicador;
+	
 	@ManyToOne
 	private Psm psm;
 }
