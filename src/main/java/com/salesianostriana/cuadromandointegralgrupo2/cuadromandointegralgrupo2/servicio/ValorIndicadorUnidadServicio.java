@@ -1,6 +1,7 @@
 package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio;
 
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.proceso.model.ValorIndicadorUnidad;
+import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.repositorio.proceso.ValorIndicadorUnidadRepository;
 
 public class ValorIndicadorUnidadServicio extends ServicioBase<ValorIndicadorUnidad, Long, ValorIndicadorUnidadRepository> {
 
