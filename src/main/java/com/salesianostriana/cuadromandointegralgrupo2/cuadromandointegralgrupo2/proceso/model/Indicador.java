@@ -20,16 +20,17 @@ import lombok.ToString;
 @Data @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-@Inheritance(strategy = InheritanceType.SINGLE_TABLE)
+@Inheritance(strategy = InheritanceType.JOINED)
 public abstract class Indicador {
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private long id;
 	private String nombre;
 	private boolean esPorcentaje;
+	
 	@ToString.Exclude
 	@ManyToOne (fetch =FetchType.LAZY)
 	private Proceso proceso;
-	@OneToMany(mappedBy="indicador")
-	private List<ValorIndicador> valor;
+	
+	
 }

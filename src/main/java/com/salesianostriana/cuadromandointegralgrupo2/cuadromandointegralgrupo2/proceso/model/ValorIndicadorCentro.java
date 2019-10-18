@@ -17,7 +17,7 @@ import lombok.ToString;
 @EqualsAndHashCode(callSuper = true)
 @ToString(callSuper = true)
 @Entity
-@DiscriminatorValue("CENTRO")
+
 public class ValorIndicadorCentro extends ValorIndicador{
 	@ToString.Exclude
 	@ManyToOne (fetch =FetchType.LAZY)

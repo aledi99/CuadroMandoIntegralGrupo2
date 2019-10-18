@@ -32,6 +32,5 @@ public class Unidad {
 	@ToString.Exclude
 	@ManyToOne (fetch =FetchType.LAZY)
 	private Curso curso;
-	@OneToMany
-	private List<ValorIndicadorUnidad> valores;
+	
 }

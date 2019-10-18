@@ -17,7 +17,7 @@ import lombok.ToString;
 @Data @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-@Inheritance(strategy = InheritanceType.SINGLE_TABLE)
+@Inheritance(strategy = InheritanceType.JOINED)
 public class ValorIndicador {
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
@@ -33,4 +33,6 @@ public class ValorIndicador {
 	@ToString.Exclude
 	@ManyToOne (fetch =FetchType.LAZY)
 	private Indicador indicador;
+	@ManyToOne
+	private Psm psm;
 }

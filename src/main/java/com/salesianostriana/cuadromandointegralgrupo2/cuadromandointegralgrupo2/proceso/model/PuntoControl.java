@@ -30,8 +30,6 @@ public class PuntoControl {
 	private long id;
 	@DateTimeFormat(pattern = "yyyy-MM-dd")
 	private LocalDate fecha;
-	@OneToMany(mappedBy="puntoControl")
-	private List<ValorIndicador> valores;
 	@ToString.Exclude
 	@ManyToOne (fetch =FetchType.LAZY)
 	private Colegio colegio;
