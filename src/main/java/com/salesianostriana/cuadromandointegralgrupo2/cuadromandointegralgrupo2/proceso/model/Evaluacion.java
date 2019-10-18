@@ -1,4 +1,4 @@
-package com.salesianostriana.pruebaproyecto2.proceso.model;
+package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.proceso.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package com.salesianostriana.pruebaproyecto2.proceso.model;
+package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.proceso.model;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import javax.persistence.Entity;
 import javax.persistence.ManyToMany;
 import javax.persistence.OneToMany;
 
-import com.salesianostriana.pruebaproyecto2.colegio.model.Unidad;
+import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.colegio.model.Unidad;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;

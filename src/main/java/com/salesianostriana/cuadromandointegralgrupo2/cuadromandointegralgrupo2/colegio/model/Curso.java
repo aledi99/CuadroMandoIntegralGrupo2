@@ -1,4 +1,6 @@
-package com.salesianostriana.pruebaproyecto2.proceso.model;
+package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.colegio.model;
+
+import java.util.List;
 
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
@@ -6,8 +8,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
-
-import com.salesianostriana.pruebaproyecto2.colegio.model.Colegio;
+import javax.persistence.OneToMany;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -17,17 +18,15 @@ import lombok.ToString;
 @Data @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-public class Psm {
+public class Curso {
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private long id;
 	private String nombre;
 	private int peso;
-	private Evaluacion evaluacion;
 	@ToString.Exclude
 	@ManyToOne (fetch =FetchType.LAZY)
-	private Colegio colegio;
-	@ToString.Exclude
-	@ManyToOne (fetch =FetchType.LAZY)
-	private PuntoControl puntoControl;
+	private Etapa etapa;
+	@OneToMany(mappedBy="curso")
+	private List<Unidad> unidad;
 }

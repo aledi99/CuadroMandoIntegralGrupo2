@@ -1,4 +1,4 @@
-package com.salesianostriana.cuadromandointegralgrupo2;
+package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

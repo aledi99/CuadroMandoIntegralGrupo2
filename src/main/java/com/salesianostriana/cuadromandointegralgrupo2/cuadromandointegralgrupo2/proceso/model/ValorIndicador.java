@@ -1,4 +1,4 @@
-package com.salesianostriana.pruebaproyecto2.proceso.model;
+package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.proceso.model;
 
 import javax.persistence.Entity;
 import javax.persistence.FetchType;

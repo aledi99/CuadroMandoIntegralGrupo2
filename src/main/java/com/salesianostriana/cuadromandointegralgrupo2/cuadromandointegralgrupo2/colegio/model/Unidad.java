@@ -1,4 +1,4 @@
-package com.salesianostriana.pruebaproyecto2.colegio.model;
+package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.colegio.model;
 
 import java.util.List;
 
@@ -11,8 +11,8 @@ import javax.persistence.ManyToMany;
 import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 
-import com.salesianostriana.pruebaproyecto2.proceso.model.Indicador;
-import com.salesianostriana.pruebaproyecto2.proceso.model.ValorIndicadorUnidad;
+import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.proceso.model.Indicador;
+import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.proceso.model.ValorIndicadorUnidad;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

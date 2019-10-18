@@ -1,11 +1,11 @@
-package com.salesianostriana.pruebaproyecto2.proceso.model;
+package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.proceso.model;
 
 import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.ManyToOne;
 
-import com.salesianostriana.pruebaproyecto2.colegio.model.Colegio;
+import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.colegio.model.Colegio;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
