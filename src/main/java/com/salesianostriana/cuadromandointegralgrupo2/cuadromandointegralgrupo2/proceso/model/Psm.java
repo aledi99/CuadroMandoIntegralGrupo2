@@ -14,6 +14,7 @@ import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.colegio.model.CursoAcademico;
 
 import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
@@ -21,6 +22,7 @@ import lombok.ToString;
 @Data @NoArgsConstructor
 @AllArgsConstructor
 @Entity
+@Builder
 public class Psm {
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
