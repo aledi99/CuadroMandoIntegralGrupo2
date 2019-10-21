@@ -6,8 +6,11 @@ import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.repositorio.proceso.IndicadorRepository;
 @Service
 public class IndicadorServicio extends ServicioBase<Indicador, Long, IndicadorRepository> {
+	
+	
 	public Indicador buscarPorNombre(String nombre) {
-		return repositorio.findByNombre(nombre);
+		
+		return repositorio.findByNombreIgnoreCase(nombre);
 	}
 
 }

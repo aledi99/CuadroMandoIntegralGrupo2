@@ -7,6 +7,8 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.procesador.ProcesadorCsv;
+import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio.IndicadorServicio;
+import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio.ValorIndicadorServicio;
 
 @SpringBootApplication
 public class CuadroMandoIntegralGrupo2Application {
@@ -15,9 +17,11 @@ public class CuadroMandoIntegralGrupo2Application {
 		SpringApplication.run(CuadroMandoIntegralGrupo2Application.class, args);
 	}
 	@Bean
-	public CommandLineRunner init( ApplicationContext context, ProcesadorCsv csv) {
+	public CommandLineRunner init( ApplicationContext context, ProcesadorCsv csv,
+			IndicadorServicio indicadorservicio, ValorIndicadorServicio valorindicadorservicio) {
 		return args -> {	
-			csv.salvarValoresIndicadores("PSM_Final_csv.csv", true);
+			System.out.println("busqueda "+indicadorservicio.buscarPorNombre("IND 06.2 E Mejora en indicadores de la satisfacción del cliente"));
+			csv.salvarValoresIndicadores("PSM_Final_csv.csv", true,indicadorservicio, valorindicadorservicio);
 			
 		};
 	}

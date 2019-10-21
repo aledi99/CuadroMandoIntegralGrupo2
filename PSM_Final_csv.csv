@@ -1,7 +1,7 @@
 PROCESO;INDICADOR;ETAPA;CICLO;CURSO;UNIDAD;VALORR;VALORC
 P.E. 06. MEJORA CONTINUA.;IND 06.2 E Mejora en indicadores de la satisfacción del cliente;centro;centro;centro;centro;50,66;2
  '' ;IND 06.1 E Mejora en indicadores medición objetiva definida en el PSM ;centro;centro;centro;centro;13,92;3
-P.C. 14. FORMACIÓN EN CENTROS DE TRABAJO.;IND 14.5 Grado de satisfacción de las empresas con la FCT;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;49,40;60
+P.C. 14. FORMACIÓN EN CENTROS DE TRABAJO.;IND 14.5 Grado de satisfacción de las empresas con la FCT;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;49,4;60
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;NA;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;48,31;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;88,63;60
@@ -23,7 +23,7 @@ P.C. 14. FORMACIÓN EN CENTROS DE TRABAJO.;IND 14.5 Grado de satisfacción de la
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;NA;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;26,17;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;48,55;60
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;66,30;60
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;66,3;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;83,74;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;NA;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;NA;60
@@ -50,7 +50,7 @@ P.C. 14. FORMACIÓN EN CENTROS DE TRABAJO.;IND 14.5 Grado de satisfacción de la
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;NA;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;NA;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;73,53;80
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;29,40;80
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;29,4;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;73,41;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;59,76;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;NA;80
@@ -175,10 +175,10 @@ P.C. 12. IMAGEN DEL CENTRO;"IND 12.7 Grado de satisfacción de los padres con la
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;76,93;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;71,82;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;26,94;70
- '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;67,50;70
+ '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;67,5;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;51,17;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;4,02;70
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;32,20;70
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;32,2;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;57,47;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;86,18;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;97,69;70
@@ -196,7 +196,7 @@ P.C. 12. IMAGEN DEL CENTRO;"IND 12.7 Grado de satisfacción de los padres con la
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºB;28,54;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºA;67,64;80
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.A;7,21;80
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;21,80;80
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;21,8;80
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;81,29;80
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.B;73,93;80
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.B;46,89;80
@@ -220,20 +220,20 @@ P.C. 12. IMAGEN DEL CENTRO;"IND 12.7 Grado de satisfacción de los padres con la
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;44,69;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;24,05;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;82,28;70
- '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;41,90;70
+ '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;41,9;70
  '' ;IND 12.4 Grado de satisfacción de los alumnos con la Imagen del Centro;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;39,45;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;18,91;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;35,95;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;63,29;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;87,36;70
- '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;4,80;70
+ '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;4,8;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;90,67;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;7,99;70
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;95,20;70
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;95,2;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;53,62;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;29,62;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;54,42;70
- '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;38,90;80
+ '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;38,9;80
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;35,41;80
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;1,12;80
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;35,09;80
@@ -249,7 +249,7 @@ P.C. 12. IMAGEN DEL CENTRO;"IND 12.7 Grado de satisfacción de los padres con la
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;99,37;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;60,59;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;41,39;70
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;0,80;70
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;0,8;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;31,42;70
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;53,46;70
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;73,89;70
@@ -314,11 +314,11 @@ P.C. 10. ACCIÓN PASTORAL ESCOLAR;IND 10.4 Grado de satisfacción del profesorad
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;27,43;80
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;72,77;80
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;85,29;80
- '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;32,10;80
+ '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;32,1;80
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;70,22;80
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;59,63;80
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;7,19;80
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;95,50;80
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;95,5;80
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;90,08;80
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;22,31;80
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;25,16;80
@@ -340,7 +340,7 @@ P.C. 10. ACCIÓN PASTORAL ESCOLAR;IND 10.4 Grado de satisfacción del profesorad
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.B;37,82;90
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.A;25,66;90
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.B;34,95;90
- '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;98,00;70
+ '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;98;70
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;6,77;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;NA;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;3,63;70
@@ -367,10 +367,10 @@ P.C. 10. ACCIÓN PASTORAL ESCOLAR;IND 10.4 Grado de satisfacción del profesorad
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;12,35;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;0,64;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;81,84;70
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;86,70;70
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;70,40;70
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;86,7;70
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;70,4;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;91,17;70
- '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;53,40;70
+ '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;53,4;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;79,81;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;34,11;80
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;77,41;80
@@ -378,22 +378,22 @@ P.C. 10. ACCIÓN PASTORAL ESCOLAR;IND 10.4 Grado de satisfacción del profesorad
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;5,21;80
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;NA;60
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;15,63;60
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;99,60;60
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;78,40;60
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;99,6;60
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;78,4;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;77,36;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;60,83;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;NA;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;NA;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;NA;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;26,01;60
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;59,20;60
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;27,70;60
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;59,2;60
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;27,7;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;67,82;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;44,72;60
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;3,51;70
- '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;34,00;70
+ '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;34;70
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;73,95;70
- '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;88,80;70
+ '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;88,8;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;80,92;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;18,84;70
  '' ;IND 10.1 % alumnos que participan en actividades voluntarias de pastoral escolar (celebraciones, retiros, convivencias, …);SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;4,55;NaN
@@ -420,14 +420,14 @@ P.C. 10. ACCIÓN PASTORAL ESCOLAR;IND 10.4 Grado de satisfacción del profesorad
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºA;40,32;NaN
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºA;64,71;NaN
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºB;41,63;NaN
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;30,40;NaN
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;30,4;NaN
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.A;20,68;NaN
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.B;81,83;NaN
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;88,40;NaN
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;88,4;NaN
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.B;64,62;NaN
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.A;50,31;NaN
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;67,57;NaN
- '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;79,00;NaN
+ '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;79;NaN
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;5,29;NaN
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;53,42;NaN
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;74,35;NaN
@@ -498,8 +498,8 @@ P.C. 09. ADMISIÓN, MATRICULACIÓN Y ACOGIDA DE ALUMNOS;IND 09.6 Grado de satisf
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;NA;80
  '' ;IND 09.5 Grado de satisfacción de alumnos de nuevo ingreso con la Admisión, Matriculación y Acogida de alumnos;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;69,02;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;60,68;70
- '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;56,40;70
- '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;75,40;70
+ '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;56,4;70
+ '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;75,4;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;5,18;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;66,87;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;93,64;70
@@ -522,7 +522,7 @@ P.C. 09. ADMISIÓN, MATRICULACIÓN Y ACOGIDA DE ALUMNOS;IND 09.6 Grado de satisf
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;NA;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;NA;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;NA;70
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;98,70;70
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;98,7;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;2,55;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;93,08;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;67,95;70
@@ -641,14 +641,14 @@ P.C. 09. ADMISIÓN, MATRICULACIÓN Y ACOGIDA DE ALUMNOS;IND 09.6 Grado de satisf
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;57,56;90
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;18,69;90
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;0,95;90
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;16,80;90
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;16,8;90
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;78,35;90
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;65,64;90
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;31,15;90
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;73,39;90
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;21,99;90
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;34,51;90
- '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;31,30;90
+ '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;31,3;90
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;6,76;90
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;4,22;90
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºA;17,21;90
@@ -737,11 +737,11 @@ P.C. 07. GESTIÓN DE CONFLICTOS DISCIPLINARES. (de la convivencia);IND 07.7 Grad
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;83,93;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;19,34;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;35,84;70
- '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;1,10;70
+ '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;1,1;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;87,35;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;43,73;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;99,68;70
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;94,50;70
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;94,5;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;58,93;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;73,62;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;23,52;70
@@ -758,22 +758,22 @@ P.C. 07. GESTIÓN DE CONFLICTOS DISCIPLINARES. (de la convivencia);IND 07.7 Grad
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºB;13,09;70
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºA;65,67;70
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.A;54,49;70
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;62,30;70
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;62,3;70
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;17,36;70
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.B;64,91;70
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.A;76,12;70
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.B;45,60;70
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.B;45,6;70
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;38,75;50
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;80,93;50
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;NA;50
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;67,40;50
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;67,4;50
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;61,23;50
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;54,55;50
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;71,68;50
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;NA;50
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;NA;50
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;NA;50
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;72,60;50
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;72,6;50
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;3,39;50
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;3,85;50
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;60,95;50
@@ -787,16 +787,16 @@ P.C. 07. GESTIÓN DE CONFLICTOS DISCIPLINARES. (de la convivencia);IND 07.7 Grad
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;90,97;60
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;81,59;60
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;77,76;60
- '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;15,20;60
+ '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;15,2;60
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;25,73;60
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;2,21;60
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;52,12;60
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;99,37;60
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;25,67;60
- '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;3,90;60
+ '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;3,9;60
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;13,65;60
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;95,36;70
- '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;13,20;70
+ '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;13,2;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;79,88;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;0,56;70
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;NA;65
@@ -812,9 +812,9 @@ P.C. 07. GESTIÓN DE CONFLICTOS DISCIPLINARES. (de la convivencia);IND 07.7 Grad
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;56,73;65
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;69,79;65
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;71,35;65
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;12,40;65
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;12,4;65
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;89,96;60
- '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;73,50;60
+ '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;73,5;60
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;89,09;60
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;31,47;60
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;11,75;60
@@ -825,15 +825,15 @@ P.C. 07. GESTIÓN DE CONFLICTOS DISCIPLINARES. (de la convivencia);IND 07.7 Grad
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;2,09;20
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;97,36;20
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;15,43;20
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;0,90;20
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;0,9;20
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;7,95;20
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;12,91;20
- '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;70,80;20
+ '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;70,8;20
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;65,89;20
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;20,14;20
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;83,64;10
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;47,54;10
- '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;23,70;10
+ '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;23,7;10
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;96,28;10
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;66,39;10
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;63,76;10
@@ -851,16 +851,16 @@ P.C. 07. GESTIÓN DE CONFLICTOS DISCIPLINARES. (de la convivencia);IND 07.7 Grad
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.A;7,68;20
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;14,03;70
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;58,88;70
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;79,70;70
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;79,7;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;41,61;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;59,46;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;43,35;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;65,05;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;70,82;70
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;32,80;70
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;32,8;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;36,89;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;41,12;70
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;91,00;70
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;91;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;63,77;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;46,34;70
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;39,99;10
@@ -884,9 +884,9 @@ P.C. 07. GESTIÓN DE CONFLICTOS DISCIPLINARES. (de la convivencia);IND 07.7 Grad
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;8,46;20
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;25,98;20
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;85,78;20
- '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;69,70;20
+ '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;69,7;20
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;48,65;20
- '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;64,40;20
+ '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;64,4;20
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;34,21;20
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºA;12,83;20
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºA;85,53;20
@@ -910,7 +910,7 @@ P.C. 07. GESTIÓN DE CONFLICTOS DISCIPLINARES. (de la convivencia);IND 07.7 Grad
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;67,53;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;85,62;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;0,57;80
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;27,50;80
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;27,5;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;7,25;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;73,67;80
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;48,17;30
@@ -924,41 +924,41 @@ P.C. 07. GESTIÓN DE CONFLICTOS DISCIPLINARES. (de la convivencia);IND 07.7 Grad
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;66,89;20
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;78,88;20
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;22,33;20
- '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;89,40;20
+ '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;89,4;20
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;33,83;20
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;37,00;20
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;37;20
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;45,48;20
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;6,43;20
- '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;87,90;20
+ '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;87,9;20
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;84,89;20
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;17,77;5
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;39,51;5
- '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;22,80;5
+ '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;22,8;5
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;75,45;5
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;29,38;NaN
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;78,98;NaN
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;50,31;NaN
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºA;81,55;NaN
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºA;83,37;NaN
- '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;6,40;NaN
+ '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;6,4;NaN
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºB;93,18;NaN
- '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºA;2,00;NaN
+ '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºA;2;NaN
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.A;63,62;NaN
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;94,56;NaN
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;24,94;NaN
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.B;1,78;NaN
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.A;40,89;NaN
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.B;24,51;NaN
- '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;8,10;30
+ '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;8,1;30
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;64,69;30
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;29,71;30
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;47,30;30
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;8,90;30
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;47,3;30
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;8,9;30
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;1,18;30
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;77,28;30
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;95,47;30
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;71,61;30
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;79,00;30
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;79;30
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;54,92;30
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;15,12;30
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;5,11;30
@@ -968,28 +968,28 @@ P.C. 07. GESTIÓN DE CONFLICTOS DISCIPLINARES. (de la convivencia);IND 07.7 Grad
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;2,74;5
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;27,41;5
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;65,67;5
- '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;77,80;5
+ '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;77,8;5
  '' ;IND 07.1 Nº de alumnos diferentes suspendidos del derecho de asistencia al centro;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;31,57;5
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;77,22;5
- '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;87,90;5
- '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;69,50;5
+ '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;87,9;5
+ '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;69,5;5
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;19,22;5
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;17,92;5
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;59,95;5
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;41,64;5
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;57,82;5
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;96,73;5
- '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;37,40;5
+ '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;37,4;5
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;45,84;5
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;75,87;1
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;36,91;1
- '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;53,00;1
+ '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;53;1
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;98,84;1
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;11,43;NaN
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;1,51;NaN
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;56,86;NaN
- '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºA;9,70;NaN
- '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;70,90;NaN
+ '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºA;9,7;NaN
+ '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;70,9;NaN
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºA;99,99;NaN
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºB;14,61;NaN
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºA;92,64;NaN
@@ -998,11 +998,11 @@ P.C. 07. GESTIÓN DE CONFLICTOS DISCIPLINARES. (de la convivencia);IND 07.7 Grad
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.B;85,65;NaN
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;71,26;NaN
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.B;56,27;NaN
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.A;87,30;NaN
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.A;87,3;NaN
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;2,38;5
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;58,99;5
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;54,16;5
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;60,90;5
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;60,9;5
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;47,13;5
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;9,88;5
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;58,46;5
@@ -1013,7 +1013,7 @@ P.C. 07. GESTIÓN DE CONFLICTOS DISCIPLINARES. (de la convivencia);IND 07.7 Grad
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;92,27;5
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;72,81;5
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;31,88;5
- '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;26,50;2
+ '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;26,5;2
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;67,33;2
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;29,28;2
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;93,96;2
@@ -1023,11 +1023,11 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;68,06;60
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;41,94;60
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;37,19;60
- '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;90,50;60
+ '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;90,5;60
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;50,39;60
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;98,11;60
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;22,56;60
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;67,50;60
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;67,5;60
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;53,17;60
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;37,88;60
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;93,53;60
@@ -1037,7 +1037,7 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;86,45;70
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;NA;80
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;95,65;80
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;66,90;80
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;66,9;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;5,57;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;62,84;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;10,87;80
@@ -1050,25 +1050,25 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;51,08;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;7,08;80
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;30,63;60
- '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;4,90;60
+ '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;4,9;60
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;67,53;60
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;74,89;60
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;2,29;60
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;28,53;60
  '' ;IND 05.8 % de actividades complementarias programadas sobre las realizadas.;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;76,24;80
- '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;20,00;80
+ '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;20;80
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;99,38;80
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;35,45;80
- '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;60,00;80
+ '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;60;80
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;16,59;80
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;8,13;80
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;65,41;80
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;72,37;80
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;11,99;80
- '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;54,50;80
- '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;9,40;80
+ '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;54,5;80
+ '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;9,4;80
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;33,84;80
- '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;28,30;80
+ '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;28,3;80
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;54,79;80
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;47,33;80
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;88,81;80
@@ -1128,12 +1128,12 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;45,65;50
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;40,08;10
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;94,07;10
- '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;47,90;10
+ '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;47,9;10
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;21,15;10
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;82,19;10
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;51,41;10
- '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;55,70;10
- '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºA;77,70;10
+ '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;55,7;10
+ '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºA;77,7;10
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;81,45;10
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºA;74,98;10
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºA;13,08;10
@@ -1146,15 +1146,15 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.B;86,02;5
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;45,91;60
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;29,46;60
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;64,80;60
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;64,8;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;48,37;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;93,67;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;57,38;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;17,43;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;81,92;60
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;36,80;60
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;36,8;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;71,75;60
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;52,80;60
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;52,8;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;96,47;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;62,77;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;94,73;60
@@ -1178,7 +1178,7 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;53,11;50
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;15,52;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;43,67;70
- '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;37,60;70
+ '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;37,6;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;19,72;70
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;43,82;70
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;8,57;70
@@ -1196,13 +1196,13 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.B;66,15;85
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;79,73;80
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;36,06;50
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;74,70;80
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;74,7;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;53,87;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;20,84;50
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;29,89;50
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;4,80;80
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;4,8;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;20,01;80
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;52,10;80
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;52,1;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;49,92;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;34,02;50
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;49,02;50
@@ -1224,7 +1224,7 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;6,26;40
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;31,18;40
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;17,97;40
- '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;62,30;40
+ '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;62,3;40
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;49,51;40
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;72,72;80
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;97,24;80
@@ -1235,13 +1235,13 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºA;10,62;80
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;58,46;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºA;46,07;80
- '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;25,40;80
+ '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;25,4;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºA;49,02;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºB;99,54;80
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.A;61,15;90
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;77,66;90
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.B;58,05;90
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;18,60;90
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;18,6;90
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.B;99,08;90
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.A;65,51;90
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;90,09;20
@@ -1254,12 +1254,12 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;74,57;40
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;95,69;40
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;88,48;40
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;11,90;40
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;11,9;40
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;26,41;40
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;46,47;40
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;67,17;40
- '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;39,80;40
- '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;92,70;40
+ '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;39,8;40
+ '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;92,7;40
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;57,94;40
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;97,71;40
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;91,51;40
@@ -1269,12 +1269,12 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;80,17;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;61,55;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;48,37;70
- '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;68,90;70
+ '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;68,9;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;18,78;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;72,56;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;97,76;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;27,83;70
- '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;32,40;70
+ '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;32,4;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;10,92;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;72,66;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;16,71;70
@@ -1314,10 +1314,10 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;51,07;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;53,18;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;25,32;70
- '' ;IND 05.12 Grado de satisfacción de los alumnos con las actividades complementarias;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;37,90;70
+ '' ;IND 05.12 Grado de satisfacción de los alumnos con las actividades complementarias;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;37,9;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;82,11;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;17,15;70
- '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;61,20;70
+ '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;61,2;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;56,86;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;80,06;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;44,18;70
@@ -1328,7 +1328,7 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;82,64;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;67,38;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;30,41;70
- '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;79,10;70
+ '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;79,1;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;20,33;70
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;31,27;60
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;NA;60
@@ -1349,7 +1349,7 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;NA;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;53,42;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;71,64;70
- '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;18,90;70
+ '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;18,9;70
  '' ;IND 05.11 Grado de satisfacción de los profesores con la acción docente;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;NA;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;NA;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;NA;70
@@ -1402,7 +1402,7 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;62,54;70
  '' ;IND 05.10 Grado de satisfacción de las familias con la acción docente;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;3,39;75
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;64,95;75
- '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;9,70;75
+ '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;9,7;75
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;44,29;75
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;34,75;75
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;95,75;75
@@ -1413,7 +1413,7 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;99,27;75
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;13,56;75
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;35,48;85
- '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;46,50;85
+ '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;46,5;85
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;44,28;85
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;98,71;85
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;99,91;85
@@ -1459,7 +1459,7 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;53,61;40
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;3,27;40
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;67,31;40
- '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;42,20;40
+ '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;42,2;40
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;0,73;40
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;52,48;40
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;66,64;80
@@ -1474,14 +1474,14 @@ P.C. 05. ACCIÓN DOCENTE (PROC. EDUC. EN EL AULA);IND 05.9 Grado de satisfacció
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;57,02;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºA;75,11;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºB;76,07;80
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.A;52,90;90
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;7,50;90
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.A;52,9;90
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;7,5;90
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;56,13;90
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.B;98,19;90
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.B;30,33;90
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.A;60,83;90
- '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;91,90;20
- '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;92,60;20
+ '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;91,9;20
+ '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;92,6;20
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;62,54;40
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;50,22;40
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;29,62;40
@@ -1550,7 +1550,7 @@ P.C. 04. ATENCIÓN A LA DIVERSIDAD;IND 04.9 Grado de satisfacción profesores co
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;NA;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;NA;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;66,42;70
- '' ;IND 04.8 Grado de satisfacción de las familias con las medidas de atención a la diversidad;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;22,30;70
+ '' ;IND 04.8 Grado de satisfacción de las familias con las medidas de atención a la diversidad;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;22,3;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;72,82;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;9,05;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;62,43;70
@@ -1567,7 +1567,7 @@ P.C. 04. ATENCIÓN A LA DIVERSIDAD;IND 04.9 Grado de satisfacción profesores co
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;36,57;80
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;76,85;80
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;66,96;80
- '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;19,90;80
+ '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;19,9;80
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºA;66,78;80
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;84,38;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºA;22,68;80
@@ -1596,19 +1596,19 @@ P.C. 04. ATENCIÓN A LA DIVERSIDAD;IND 04.9 Grado de satisfacción profesores co
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;27,19;60
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;40,47;70
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;21,05;70
- '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;91,00;70
+ '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;91;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;24,53;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;39,25;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;12,03;70
- '' ;IND 04.7 Grado de satisfacción de los alumnos con las medidas de atención a la diversidad;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;33,60;70
+ '' ;IND 04.7 Grado de satisfacción de los alumnos con las medidas de atención a la diversidad;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;33,6;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;7,04;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;43,84;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;59,57;70
- '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;21,90;70
+ '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;21,9;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;50,18;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;93,79;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;97,54;70
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;37,60;70
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;37,6;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;40,46;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;5,18;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;4,11;70
@@ -1630,7 +1630,7 @@ P.C. 04. ATENCIÓN A LA DIVERSIDAD;IND 04.9 Grado de satisfacción profesores co
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;25,02;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;46,54;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;39,09;70
- '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;61,40;70
+ '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;61,4;70
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;53,02;70
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;13,34;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;14,13;70
@@ -1653,11 +1653,11 @@ P.C. 04. ATENCIÓN A LA DIVERSIDAD;IND 04.9 Grado de satisfacción profesores co
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;NA;NaN
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;NA;NaN
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;90,62;NaN
- '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;67,50;NaN
+ '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;67,5;NaN
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;NA;NaN
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºA;NA;NaN
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºA;30,27;NaN
- '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;51,40;NaN
+ '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;51,4;NaN
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºB;NA;NaN
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºA;NA;NaN
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;NA;NaN
@@ -1672,7 +1672,7 @@ P.C. 04. ATENCIÓN A LA DIVERSIDAD;IND 04.9 Grado de satisfacción profesores co
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;99,42;NaN
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;92,27;NaN
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;80,66;NaN
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;69,80;NaN
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;69,8;NaN
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;57,23;NaN
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;23,76;NaN
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;38,21;NaN
@@ -1680,7 +1680,7 @@ P.C. 04. ATENCIÓN A LA DIVERSIDAD;IND 04.9 Grado de satisfacción profesores co
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;26,16;NaN
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;58,06;NaN
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;34,29;NaN
- '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;79,70;NaN
+ '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;79,7;NaN
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;85,06;NaN
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;99,54;NaN
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;90,16;50
@@ -1979,17 +1979,17 @@ P.C. 02. ORIENTACIÓN Y ACOMPAÑAMIENTO DE ALUMNOS;IND 02.5 Grado de Satisfacci�
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;NA;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;NA;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;NA;70
- '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;44,60;70
+ '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;44,6;70
  '' ;IND 02.4 Grado de Satisfacción de Familias con la Orientación;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;5,39;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;18,45;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;28,66;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;32,04;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;50,13;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;78,84;70
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;84,50;70
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;84,5;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;40,88;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;7,47;70
- '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;42,90;70
+ '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;42,9;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;15,09;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;89,46;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;82,45;70
@@ -2004,7 +2004,7 @@ P.C. 02. ORIENTACIÓN Y ACOMPAÑAMIENTO DE ALUMNOS;IND 02.5 Grado de Satisfacci�
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;9,93;70
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºA;62,92;70
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºB;54,79;70
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.A;35,20;85
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.A;35,2;85
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;59,68;85
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;95,67;85
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.B;86,87;85
@@ -2041,14 +2041,14 @@ P.C. 02. ORIENTACIÓN Y ACOMPAÑAMIENTO DE ALUMNOS;IND 02.5 Grado de Satisfacci�
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;8,01;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;84,01;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;12,84;70
- '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;8,60;70
+ '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;8,6;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;38,79;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;35,14;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;76,89;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;30,39;70
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;NA;60
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;39,53;60
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;44,90;60
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;44,9;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;88,45;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;39,22;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;96,04;60
@@ -2056,7 +2056,7 @@ P.C. 02. ORIENTACIÓN Y ACOMPAÑAMIENTO DE ALUMNOS;IND 02.5 Grado de Satisfacci�
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;NA;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;NA;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;54,49;60
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;36,20;60
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;36,2;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;39,16;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;83,19;60
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;86,68;60
@@ -2107,18 +2107,18 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;74,12;80
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;34,43;80
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;78,79;80
- '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;48,60;80
+ '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;48,6;80
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;3,47;80
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;14,70;80
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;14,7;80
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;64,78;80
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;71,40;80
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;71,4;80
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;75,95;80
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;77,04;80
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;29,61;80
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;13,19;80
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;5,33;80
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;31,03;80
- '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;59,90;80
+ '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;59,9;80
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;12,95;80
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;16,98;80
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;84,26;80
@@ -2126,12 +2126,12 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;40,97;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºA;59,07;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºA;35,87;80
- '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºB;64,00;80
+ '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºB;64;80
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;20,75;90
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.A;37,82;90
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;88,54;90
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.B;61,19;90
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.A;6,50;90
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.A;6,5;90
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.B;9,22;90
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;23,79;70
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;37,84;70
@@ -2151,7 +2151,7 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;58,27;80
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;76,09;80
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;0,05;80
- '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;97,50;80
+ '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;97,5;80
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;16,06;80
  '' ;IND 01.8 Grado de satisfacción de los alumnos con la acción tutorial;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;98,49;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;96,16;70
@@ -2162,7 +2162,7 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;26,94;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;34,14;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;64,82;70
- '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;66,90;70
+ '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;66,9;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;30,38;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;12,68;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;62,42;70
@@ -2195,7 +2195,7 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;31,66;80
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;26,08;80
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;95,02;80
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;49,30;80
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;49,3;80
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;36,31;80
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;78,41;80
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;61,18;80
@@ -2209,11 +2209,11 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;23,16;80
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºA;75,66;80
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;11,76;80
- '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºA;67,40;80
+ '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºA;67,4;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;30,63;80
- '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºA;68,10;80
+ '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºA;68,1;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºB;43,27;80
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;2,10;80
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;2,1;80
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.A;49,43;80
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;58,88;80
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.B;32,27;80
@@ -2225,7 +2225,7 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;6,05;20
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;97,91;20
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;82,05;20
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;71,60;30
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;71,6;30
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;37,46;30
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;NA;30
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;4,51;30
@@ -2235,11 +2235,11 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;62,17;30
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;27,35;80
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;72,53;80
- '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;47,80;80
+ '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;47,8;80
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;17,11;80
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;94,28;80
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;7,98;80
- '' ;IND 01.6 % de acciones del Plan de Acción Tutorial eficaces sobre las realizadas.;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;71,20;80
+ '' ;IND 01.6 % de acciones del Plan de Acción Tutorial eficaces sobre las realizadas.;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;71,2;80
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;73,78;80
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;6,17;80
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;25,83;80
@@ -2257,7 +2257,7 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;29,95;80
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;70,93;80
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;43,61;80
- '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;44,20;80
+ '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;44,2;80
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºA;22,06;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;13,17;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºA;40,51;80
@@ -2274,9 +2274,9 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;95,36;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;39,25;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;6,31;80
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;29,00;80
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;29;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;10,27;80
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;21,70;80
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;21,7;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;61,35;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;17,38;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;17,44;80
@@ -2288,7 +2288,7 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;57,82;80
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;33,41;80
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;3,71;80
- '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;84,00;80
+ '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;84;80
  '' ;IND 01.5 % de acciones del Plan de Acción Tutorial realizadas sobre las planificadas.;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;62,87;80
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;19,54;80
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;39,42;80
@@ -2306,14 +2306,14 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;47,25;80
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;97,56;80
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;43,94;80
- '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;54,10;80
+ '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;54,1;80
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;0,15;80
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºA;82,07;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºA;34,11;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;70,93;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºB;98,71;80
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºA;77,48;80
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;21,20;80
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;21,2;80
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.A;9,67;80
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.B;42,14;80
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;78,04;80
@@ -2322,11 +2322,11 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;88,61;70
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;24,61;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;51,97;70
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;73,70;70
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;73,7;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;7,37;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;47,63;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;91,11;70
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;91,90;70
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;91,9;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;50,07;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;56,14;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;44,86;70
@@ -2346,9 +2346,9 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;48,36;30
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;15,41;30
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;79,29;30
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;66,60;30
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;66,6;30
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;43,68;30
- '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;92,40;30
+ '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;92,4;30
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;30,91;30
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;86,01;30
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;80,65;30
@@ -2358,7 +2358,7 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;55,14;30
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;88,55;30
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;98,68;30
- '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºA;15,80;30
+ '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºA;15,8;30
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºA;16,76;30
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;25,47;30
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºB;21,25;30
@@ -2367,22 +2367,22 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;45,88;30
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;13,32;30
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.B;66,62;30
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.A;26,00;30
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.A;26;30
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.B;54,62;30
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;66,84;20
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;94,13;20
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;40,71;20
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;15,06;20
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;73,93;20
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;12,10;20
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;12,1;20
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;69,16;20
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;34,20;20
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;34,2;20
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;84,45;20
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;95,87;20
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;45,40;20
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;54,10;20
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones de Telecomunicaciones);1º ITelec;45,4;20
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;54,1;20
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;39,57;20
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;50,60;20
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;50,6;20
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;71,62;35
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;54,55;35
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;74,96;35
@@ -2411,7 +2411,7 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;42,93;20
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;63,26;20
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;69,38;20
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;45,40;20
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;45,4;20
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;40,49;20
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;61,19;20
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Actividades Comerciales);2º Comerci;39,85;20
@@ -2422,7 +2422,7 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;24,29;35
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;36,02;35
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;52,15;35
- '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;79,10;35
+ '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;79,1;35
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;6,48;35
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;47,57;35
  '' ;IND 01.2 % alumnos diferentes entrevistados por el tutor;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;1,69;100
@@ -2443,7 +2443,7 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;15,16;NaN
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;99,98;100
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;38,82;100
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;48,20;80
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;48,2;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;60,42;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;95,37;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;70,43;80
@@ -2455,16 +2455,16 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);1º Ins Aut;92,35;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;47,42;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;27,03;80
- '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;15,10;100
+ '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;15,1;100
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;97,11;100
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;69,16;100
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;74,58;100
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;1,35;100
- '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;0,60;100
+ '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;0,6;100
  '' ;IND 01.11 Grado satisfacción profesores con las acciones tutoriales desarrolladas con los alumnos;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;89,56;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;26,36;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;82,96;70
- '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;65,60;70
+ '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºB;65,6;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;81,15;70
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºA;29,05;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;63,91;70
@@ -2476,11 +2476,11 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;40,98;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;7,86;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;72,64;70
- '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;2,10;70
+ '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;2,1;70
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;54,38;70
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;15,29;70
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºA;51,22;70
- '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;13,80;70
+ '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;13,8;70
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºA;0,91;70
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;2º de Educ. Prima.;EPO 2ºB;33,85;70
  '' ; '' ;PRIMARIA;1º CICLO PRIMARIA;1º de Educ. Prima.;EPO 1ºA;30,93;70
@@ -2488,15 +2488,15 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.A;99,63;70
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Tres Años;E.Inf. 3.B;17,84;70
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.B;16,56;70
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;91,10;70
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;91,1;70
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.B;57,25;70
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.A;79,80;70
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.A;79,8;70
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;62,35;70
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;85,22;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;11,68;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;65,19;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;57,14;70
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;37,60;70
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;37,6;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;64,06;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;77,26;70
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Gestión Administrativa);2º Gestión;51,02;70
@@ -2509,7 +2509,7 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;72,86;70
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;23,79;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;76,57;70
- '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;46,70;70
+ '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;46,7;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;21,08;70
  '' ;IND 01.10 Grado de satisfacción de los profesores con la acción tutorial;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºB;NA;70
  '' ; '' ;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºC;NA;70
@@ -2520,7 +2520,7 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;NA;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;NA;70
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;NA;70
- '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;32,00;70
+ '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;32;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;NA;70
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;NA;70
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;NA;70
@@ -2558,7 +2558,7 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;NA;70
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;NA;70
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;NA;70
- '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;68,80;70
+ '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºA Bach;68,8;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;NA;70
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;NA;70
  '' ;IND 01.1 % Familias diferentes que se entrevistan con el tutor;SECUNDARIA;4º CICLO ESO;4º de E.S.O.;ESO 4ºA;67,48;100
@@ -2569,14 +2569,14 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;SECUNDARIA;3º CICLO ESO;3º de E.S.O.;ESO 3ºC;89,63;100
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºB;9,88;100
  '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºC;18,96;100
- '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;2,40;100
+ '' ; '' ;SECUNDARIA;2º CICLO ESO;2º de E.S.O.;ESO 2ºA;2,4;100
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºC;20,94;100
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºA;68,54;100
  '' ; '' ;SECUNDARIA;1º CICLO ESO;1º de E.S.O.;ESO 1ºB;56,22;100
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºB;66,99;100
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;6º de Educ. Prima.;EPO 6ºA;13,99;100
  '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºA;74,75;100
- '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;34,70;100
+ '' ; '' ;PRIMARIA;3º CICLO PRIMARIA;5º de Educ. Prima.;EPO 5ºB;34,7;100
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºA;48,83;100
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;4º de Educ. Prima.;EPO 4ºB;86,55;100
  '' ; '' ;PRIMARIA;2º CICLO PRIMARIA;3º de Educ. Prima.;EPO 3ºB;65,56;100
@@ -2590,12 +2590,12 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.A;67,05;100
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cuatro Años;E.Inf. 4.B;34,36;100
  '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.A;19,97;100
- '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.B;38,70;100
+ '' ; '' ;INFANTIL;2º CICLO INFANTIL;Cinco Años;E.Inf. 5.B;38,7;100
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;2º de F.P.B. (Electricidad y Electrónica);2º FPB;97,32;100
  '' ; '' ;FORMACION PROFESIONAL;FORMACIÓN PROFESIONAL BÁSICA;1º de F.P.B. (Electricidad y Electrónica);1º FPB;7,33;100
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);2 D.A.Mult;13,08;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;2º F.P.I.G.S. (Administración y Finanzas);2º Adm-Fin;40,02;80
- '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;94,20;80
+ '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Desarrollo de Aplicaciones Multiplataforma);1 D.A.Mult;94,2;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO SUPERIOR;1º F.P.I.G.S. (Administración y Finanzas);1º Adm-Fin;30,11;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones de Telecomunicaciones);2º ITelec;44,22;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;2º F.P.I.G.M. (Instalaciones Eléctricas y Automáticas);2º Ins Aut;79,93;80
@@ -2606,7 +2606,7 @@ P.C. 01. ACCIÓN TUTORIAL.;IND 01.9 Grado de satisfacción de las familias con l
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Gestión Administrativa);1º Gestión;85,96;80
  '' ; '' ;FORMACION PROFESIONAL;CICLOS FORMATIVOS DE GRADO MEDIO;1º F.P.I.G.M. (Actividades Comerciales);1º Comerci;2,26;80
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºB Bach;10,81;100
- '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;0,70;100
+ '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºA Bach;0,7;100
  '' ; '' ;BACHILLERATO;2º CICLO BACHILLER;SEGUNDO BACHILLERATO;2ºC Bach;77,17;100
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºC Bach;19,55;100
  '' ; '' ;BACHILLERATO;1º CICLO BACHILLER;PRIMERO BACHILLERATO;1ºB Bach;39,29;100
