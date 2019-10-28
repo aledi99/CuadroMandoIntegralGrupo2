@@ -1,0 +1,8 @@
+package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio;
+
+import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.proceso.model.ValorIndicadorCentro;
+import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.repositorio.proceso.ValorIndicadorCentroRepository;
+
+public class ValorIndicadorCentroServicio extends ServicioBase<ValorIndicadorCentro, Long, ValorIndicadorCentroRepository> {
+
+}

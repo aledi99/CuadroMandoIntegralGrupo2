@@ -1,0 +1,10 @@
+package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio;
+
+import org.springframework.stereotype.Service;
+
+import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.proceso.model.ValorIndicadorUnidad;
+import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.repositorio.proceso.ValorIndicadorUnidadRepository;
+@Service
+public class ValorIndicadorUnidadServicio extends ServicioBase<ValorIndicadorUnidad, Long, ValorIndicadorUnidadRepository> {
+
+}
