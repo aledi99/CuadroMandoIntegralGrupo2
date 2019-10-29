@@ -10,9 +10,11 @@ import java.nio.file.StandardCopyOption;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.UrlResource;
+import org.springframework.jdbc.datasource.embedded.ConnectionProperties;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 import org.springframework.web.multipart.MultipartFile;
+import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 
 
@@ -65,5 +67,13 @@ public class FileStorageService {
         } catch (MalformedURLException ex) {
             throw new MyFileNotFoundException("File not found " + fileName, ex);
         }
+    }
+    
+    public UploadFileResponse uploadFile(ConnectionProperties properties, MultipartFile file, String fileName) {
+    	
+    	String fileDownloadUri = ServletUriComponentsBuilder.fromCurrentContextPath().path("/downloadFile/")
+				.path(fileName).toUriString();
+
+		return new UploadFileResponse(fileName, fileDownloadUri, file.getContentType(), file.getSize());
     }
 }
