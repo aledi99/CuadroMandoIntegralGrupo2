@@ -13,6 +13,7 @@ import org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBui
 
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.proceso.model.Psm;
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio.PsmServicio;
+import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio.StorageService;
 
 @Controller
 public class SubidaArchivosController {
