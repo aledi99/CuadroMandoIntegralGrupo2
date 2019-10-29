@@ -29,8 +29,6 @@ public class Psm {
 	private String nombre;
 	private int peso;
 	private Evaluacion evaluacion;
-	@URL
-	private String imagen;
 	
 	@ToString.Exclude
 	@ManyToOne (fetch =FetchType.LAZY)
