@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio.StorageService;
+import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.files.StorageService;
 
 @Controller
 public class FicherosController {

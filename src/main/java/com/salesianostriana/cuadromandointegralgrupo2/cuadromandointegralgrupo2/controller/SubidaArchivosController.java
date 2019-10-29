@@ -11,9 +11,9 @@ import org.springframework.web.bind.annotation.RequestPart;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder;
 
+import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.files.StorageService;
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.proceso.model.Psm;
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio.PsmServicio;
-import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio.StorageService;
 
 @Controller
 public class SubidaArchivosController {

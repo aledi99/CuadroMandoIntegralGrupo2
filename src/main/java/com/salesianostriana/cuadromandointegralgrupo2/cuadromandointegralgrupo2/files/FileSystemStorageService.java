@@ -18,8 +18,6 @@ import org.springframework.util.FileSystemUtils;
 import org.springframework.util.StringUtils;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio.StorageService;
-
 /** Toda esta clase y el resto de este paquete son clases necesarias para la gestión del 
  * almacenamiento. No forman parte de lo que damos en este curso, 
  * por lo que se puede añadir a nuestro proyecto para usarla y ya está.

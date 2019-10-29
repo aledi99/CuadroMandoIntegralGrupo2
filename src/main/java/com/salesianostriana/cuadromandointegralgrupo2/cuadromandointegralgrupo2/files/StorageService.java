@@ -1,4 +1,4 @@
-package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio;
+package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.files;
 
 import java.nio.file.Path;
 import java.util.stream.Stream;
