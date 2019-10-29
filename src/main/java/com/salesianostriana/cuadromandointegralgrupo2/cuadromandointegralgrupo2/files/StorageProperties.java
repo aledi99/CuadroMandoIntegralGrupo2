@@ -1,4 +1,4 @@
-package com.salesianostriana.cuandromandointegralgrupo2.cuadromandointegralgrupo2.files;
+package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.files;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
