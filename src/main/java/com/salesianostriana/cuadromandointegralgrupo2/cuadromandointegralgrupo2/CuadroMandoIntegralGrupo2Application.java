@@ -7,7 +7,7 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 
-import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.files.FileStorageProperties;
+import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.files.StorageProperties;
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.procesador.ProcesadorCsv;
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio.CursoServicio;
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio.EtapaServicio;
@@ -16,7 +16,7 @@ import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio.ValorIndicadorServicio;
 
 @SpringBootApplication
-@EnableConfigurationProperties({ FileStorageProperties.class })
+@EnableConfigurationProperties({ StorageProperties.class })
 public class CuadroMandoIntegralGrupo2Application {
 
 	public static void main(String[] args) {

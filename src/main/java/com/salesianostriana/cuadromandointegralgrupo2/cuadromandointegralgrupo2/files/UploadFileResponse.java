@@ -12,7 +12,6 @@ import lombok.Setter;
 @NoArgsConstructor
 @Getter
 @Setter
-@Entity
 public class UploadFileResponse {
 
 	private String nombreFichero;
