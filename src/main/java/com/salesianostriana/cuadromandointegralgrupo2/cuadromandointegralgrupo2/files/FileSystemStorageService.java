@@ -1,125 +1,70 @@
 package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.files;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.core.io.Resource;
+import org.springframework.core.io.UrlResource;
+import org.springframework.stereotype.Service;
+import org.springframework.util.StringUtils;
+import org.springframework.web.multipart.MultipartFile;
+
+import lombok.RequiredArgsConstructor;
+
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-import java.util.stream.Stream;
-
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.core.io.Resource;
-import org.springframework.core.io.UrlResource;
-import org.springframework.stereotype.Service;
-import org.springframework.util.FileSystemUtils;
-import org.springframework.web.multipart.MultipartFile;
-import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
-
-/** Toda esta clase y el resto de este paquete son clases necesarias para la gestión del 
- * almacenamiento. No forman parte de lo que damos en este curso, 
- * por lo que se puede añadir a nuestro proyecto para usarla y ya está.
- * Los métodos están relacionados con la gestión de objetos MultipartFile,
- * almacenar con un nombre que incluya la hora para que no se puedan guardar dos archivos con el mismo nombre, borrar, etc.*/
+import java.nio.file.StandardCopyOption;
 
 @Service
-public class FileSystemStorageService implements StorageService {
+@RequiredArgsConstructor
+public class FileSystemStorageService {
 
-    private final Path rootLocation;
+    private final Path fileStorageLocation;
 
     @Autowired
-    public FileSystemStorageService(StorageProperties properties) {
-        this.rootLocation = Paths.get(properties.getLocation());
+    public FileSystemStorageService(FileStorageProperties fileStorageProperties) {
+        this.fileStorageLocation = Paths.get(fileStorageProperties.getUploadDir())
+                .toAbsolutePath().normalize();
+
+        try {
+            Files.createDirectories(this.fileStorageLocation);
+        } catch (Exception ex) {
+            throw new FileStorageException("Could not create the directory where the uploaded files will be stored.", ex);
+        }
     }
 
-    @Override
-    public String store(MultipartFile file) {
+    public String storeFile(MultipartFile file) {
+        // Normalize file name
+        String fileName = StringUtils.cleanPath(file.getOriginalFilename());
+
         try {
-           /* if (file.isEmpty()) {
-                throw new StorageException("Failed to store empty file " + file.getOriginalFilename());
-            }*/
-            //Nombre original del fichero
-            String originalFileName = file.getOriginalFilename();
-            //Obtenemos la fecha y hora actual del sistema (antiguo)
-            DateFormat df = new SimpleDateFormat("dd-MM-yyyy_HH-mm-ss");
-            //El nombre del fichero será dd-MM-yyyy_HH-mm-ss_originalFileName.ext
-            String fileName = df.format(new Date()) + "_" + originalFileName;
-            //Obtenemos el path completo para realizar el almacenamiento
-            Path path = this.rootLocation.resolve(fileName);            
-            Files.copy(file.getInputStream(), path);
-            //Devolvemos el nombre del fichero, para almacenarlo donde corresponda
+            // Check if the file's name contains invalid characters
+            if(fileName.contains("..")) {
+                throw new FileStorageException("Sorry! Filename contains invalid path sequence " + fileName);
+            }
+
+            // Copy file to the target location (Replacing existing file with the same name)
+            Path targetLocation = this.fileStorageLocation.resolve(fileName);
+            Files.copy(file.getInputStream(), targetLocation, StandardCopyOption.REPLACE_EXISTING);
+
             return fileName;
-        } catch (IOException e) {
-            throw new StorageException("Failed to store file " + file.getOriginalFilename(), e);
-        } 
-        
-    }
-
-    @Override
-    public Stream<Path> loadAll() {
-        try {
-            return Files.walk(this.rootLocation, 1)
-                    .filter(path -> !path.equals(this.rootLocation))
-                    .map(path -> this.rootLocation.relativize(path));
-        } catch (IOException e) {
-            throw new StorageException("Failed to read stored files", e);
+        } catch (IOException ex) {
+            throw new FileStorageException("Could not store file " + fileName + ". Please try again!", ex);
         }
-
     }
 
-    @Override
-    public Path load(String filename) {
-        return rootLocation.resolve(filename);
-    }
-
-    @Override
-    public Resource loadAsResource(String filename) {
+    public Resource loadFileAsResource(String fileName) {
         try {
-            Path file = load(filename);
-            Resource resource = new UrlResource(file.toUri());
-            if(resource.exists() || resource.isReadable()) {
+            Path filePath = this.fileStorageLocation.resolve(fileName).normalize();
+            Resource resource = new UrlResource(filePath.toUri());
+            if(resource.exists()) {
                 return resource;
+            } else {
+                throw new MyFileNotFoundException("File not found " + fileName);
             }
-            else {
-                throw new StorageFileNotFoundException("Could not read file: " + filename);
-
-            }
-        } catch (MalformedURLException e) {
-            throw new StorageFileNotFoundException("Could not read file: " + filename, e);
+        } catch (MalformedURLException ex) {
+            throw new MyFileNotFoundException("File not found " + fileName, ex);
         }
     }
-
-    @Override
-    public void deleteAll() {
-        FileSystemUtils.deleteRecursively(rootLocation.toFile());
-    }
-
-    @Override
-    public void init() {
-        try {
-        	if (!Files.exists(rootLocation))
-        		Files.createDirectory(rootLocation);
-        } catch (IOException e) {
-            throw new StorageException("Could not initialize storage", e);
-        }
-    }
-    
-    public UploadFileResponse uploadFile(String properties, MultipartFile file, String fileName) {
-    	String fileDownloadUri = ServletUriComponentsBuilder.fromCurrentContextPath()
-                .path("/downloadFile/")
-                .path(fileName)
-                .toUriString();
-
-        return new UploadFileResponse(fileName, fileDownloadUri,
-                file.getContentType(), file.getSize());
-    }
-
-	@Override
-	public void delete(String filename) {
-		// TODO Auto-generated method stub
-		
-	}
 }
-

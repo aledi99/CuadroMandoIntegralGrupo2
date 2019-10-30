@@ -1,16 +1,16 @@
 package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.files;
 
-public class StorageException extends RuntimeException {
+public class FileStorageException extends RuntimeException {
     /**
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
 
-	public StorageException(String message) {
+	public FileStorageException(String message) {
         super(message);
     }
 
-    public StorageException(String message, Throwable cause) {
+    public FileStorageException(String message, Throwable cause) {
         super(message, cause);
     }
 }

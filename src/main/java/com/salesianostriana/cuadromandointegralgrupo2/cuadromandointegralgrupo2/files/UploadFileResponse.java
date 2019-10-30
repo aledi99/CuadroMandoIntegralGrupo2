@@ -1,6 +1,5 @@
 package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.files;
 
-import javax.persistence.Entity;
 
 
 import lombok.Data;
