@@ -1,6 +1,7 @@
 package com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.procesador;
 
 import java.io.IOException;
+
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.List;
@@ -11,8 +12,12 @@ import org.springframework.stereotype.Component;
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.proceso.model.ValorIndicador;
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio.IndicadorServicio;
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio.ValorIndicadorServicio;
+/**
+ * 
+ * @author Esperanza M Escacena
+ *
+ */
 @Component
-
 public class ProcesadorCsv {
 	private static final String DELIMITADOR =";";
 	private static final int PROCESO=0;
@@ -26,7 +31,8 @@ public class ProcesadorCsv {
 
 	private static String nomIndicadorComillas;
 	private static int contador=0;
-	//hay q insertar valorindicador
+	
+	//FALTA HACER LOS INSERTS EN LAS TABLAS JOIN
 	public  static ValorIndicador mapToValorIndicador(String linea,IndicadorServicio i) {
 		String [] datos=linea.split(DELIMITADOR);
 	

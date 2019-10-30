@@ -17,7 +17,11 @@ import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.
 import com.salesianostriana.cuadromandointegralgrupo2.cuadromandointegralgrupo2.servicio.UnidadServicio;
 
 import lombok.RequiredArgsConstructor;
-
+/**
+ * 
+ * @author Álvaro Márquez
+ *
+ */
 @Component
 @RequiredArgsConstructor
 public class ProcesadorCsvEstructuraCentro {
