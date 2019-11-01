@@ -8,7 +8,7 @@
 		<version>2.1.9.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.salesianostriana.cuadromandointegralgrupo2</groupId>
+	<groupId>com.salesianostriana</groupId>
 	<artifactId>cuadromandointegralgrupo2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CuadroMandoIntegralGrupo2</name>
