@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 
 import com.salesianostriana.cuadromandointegralgrupo2.files.FileStorageProperties;
 import com.salesianostriana.cuadromandointegralgrupo2.procesador.ProcesadorCsv;
-import com.salesianostriana.cuadromandointegralgrupo2.servicio.PsmServicio;
+import com.salesianostriana.cuadromandointegralgrupo2.servicio.procesos.PsmServicio;
 
 @SpringBootApplication
 @EnableConfigurationProperties({ FileStorageProperties.class })

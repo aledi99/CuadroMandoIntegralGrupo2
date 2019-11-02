@@ -7,8 +7,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 
-import org.hibernate.validator.constraints.URL;
-
 import com.salesianostriana.cuadromandointegralgrupo2.model.colegio.Colegio;
 import com.salesianostriana.cuadromandointegralgrupo2.model.colegio.CursoAcademico;
 

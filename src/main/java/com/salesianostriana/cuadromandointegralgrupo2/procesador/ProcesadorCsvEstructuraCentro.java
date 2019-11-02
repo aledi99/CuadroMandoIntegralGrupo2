@@ -12,9 +12,9 @@ import org.springframework.stereotype.Component;
 import com.salesianostriana.cuadromandointegralgrupo2.model.colegio.Curso;
 import com.salesianostriana.cuadromandointegralgrupo2.model.colegio.Etapa;
 import com.salesianostriana.cuadromandointegralgrupo2.model.colegio.Unidad;
-import com.salesianostriana.cuadromandointegralgrupo2.servicio.CursoServicio;
-import com.salesianostriana.cuadromandointegralgrupo2.servicio.EtapaServicio;
-import com.salesianostriana.cuadromandointegralgrupo2.servicio.UnidadServicio;
+import com.salesianostriana.cuadromandointegralgrupo2.servicio.colegio.CursoServicio;
+import com.salesianostriana.cuadromandointegralgrupo2.servicio.colegio.EtapaServicio;
+import com.salesianostriana.cuadromandointegralgrupo2.servicio.colegio.UnidadServicio;
 
 import lombok.RequiredArgsConstructor;
 /**

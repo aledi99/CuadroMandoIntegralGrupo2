@@ -9,7 +9,6 @@ import javax.persistence.Id;
 import javax.persistence.OneToMany;
 
 import com.salesianostriana.cuadromandointegralgrupo2.model.procesos.PuntoControl;
-import com.salesianostriana.cuadromandointegralgrupo2.model.procesos.ValorIndicadorCentro;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

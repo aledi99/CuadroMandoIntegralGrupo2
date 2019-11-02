@@ -16,13 +16,13 @@ import com.salesianostriana.cuadromandointegralgrupo2.model.procesos.Psm;
 import com.salesianostriana.cuadromandointegralgrupo2.model.procesos.ValorIndicador;
 import com.salesianostriana.cuadromandointegralgrupo2.model.procesos.ValorIndicadorCentro;
 import com.salesianostriana.cuadromandointegralgrupo2.model.procesos.ValorIndicadorUnidad;
-import com.salesianostriana.cuadromandointegralgrupo2.servicio.ColegioServicio;
-import com.salesianostriana.cuadromandointegralgrupo2.servicio.IndicadorServicio;
-import com.salesianostriana.cuadromandointegralgrupo2.servicio.PsmServicio;
-import com.salesianostriana.cuadromandointegralgrupo2.servicio.UnidadServicio;
-import com.salesianostriana.cuadromandointegralgrupo2.servicio.ValorIndicadorCentroServicio;
-import com.salesianostriana.cuadromandointegralgrupo2.servicio.ValorIndicadorServicio;
-import com.salesianostriana.cuadromandointegralgrupo2.servicio.ValorIndicadorUnidadServicio;
+import com.salesianostriana.cuadromandointegralgrupo2.servicio.colegio.ColegioServicio;
+import com.salesianostriana.cuadromandointegralgrupo2.servicio.colegio.UnidadServicio;
+import com.salesianostriana.cuadromandointegralgrupo2.servicio.procesos.IndicadorServicio;
+import com.salesianostriana.cuadromandointegralgrupo2.servicio.procesos.PsmServicio;
+import com.salesianostriana.cuadromandointegralgrupo2.servicio.procesos.ValorIndicadorCentroServicio;
+import com.salesianostriana.cuadromandointegralgrupo2.servicio.procesos.ValorIndicadorServicio;
+import com.salesianostriana.cuadromandointegralgrupo2.servicio.procesos.ValorIndicadorUnidadServicio;
 /**
  * 
  * @author Esperanza M Escacena
