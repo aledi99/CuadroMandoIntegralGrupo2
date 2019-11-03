@@ -54,14 +54,15 @@ public class ServerSecurityConfig extends WebSecurityConfigurerAdapter {
 
 	@Override
 	protected void configure(HttpSecurity http) throws Exception {
+        //http.csrf().disable();
+        http.headers().frameOptions().disable();
 		http.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS).and().authorizeRequests()
-				.antMatchers("/api/signin/**").permitAll()
-				.antMatchers("/api/glee/**").hasAnyAuthority("ADMIN", "USER")
-				.antMatchers("/api/users/**").hasAuthority("ADMIN")
+				.antMatchers("/h2-console/**").permitAll()
 				.antMatchers("/api/**").authenticated().anyRequest()
 				.authenticated()
 				.and().exceptionHandling().authenticationEntryPoint(customAuthenticationEntryPoint)
 				.accessDeniedHandler(new CustomAccessDeniedHandler());
+		
 		// esta úlima línea es para gestionar errores propios
 	}
 
